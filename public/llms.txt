@@ -1,35 +1,48 @@
-# Business — Generative Engine Optimization Map
+# גמישות — Generative Engine Optimization Map
+
+> A 30-day splits challenge website that counts down each day and sends daily reminders to practice the splits. The site features a warm-up and flexibility guide to help users progress safely, and culminates in a celebratory 'SPAGAAAAT' moment on day 30. The concept is fun, motivating, and gamified — combining fitness education with daily accountability and a rewarding finish line.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://gmishut.zappy5.app
 A 30-day splits challenge website that counts down each day and sends daily reminders to practice the splits. The site features a warm-up and flexibility guide 
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://gmishut.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://gmishut.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://gmishut.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About גמישות
+A 30-day splits challenge website that counts down each day and sends daily reminders to practice the splits. The site features a warm-up and flexibility guide to help users progress safely, and culminates in a celebratory 'SPAGAAAAT' moment on day 30. The concept is fun, motivating, and gamified — combining fitness education with daily accountability and a rewarding finish line.
+
+## Target Audience
+- אנשים שרוצים ללמוד שפגאט תוך 30 יום
+- מחפשי גמישות
+- מתרגלי יוגה
+- רקדנים
+
+## Industry
+כושר וגמישות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://gmishut.zappy5.app/sitemap.xml
+- **Robots.txt**: https://gmishut.zappy5.app/robots.txt
