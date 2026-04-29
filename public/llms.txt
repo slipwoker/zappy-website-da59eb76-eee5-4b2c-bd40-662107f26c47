@@ -1,6 +1,4 @@
-# גמישות — Generative Engine Optimization Map
-
-> A 30-day splits challenge website that counts down each day and sends daily reminders to practice the splits. The site features a warm-up and flexibility guide to help users progress safely, and culminates in a celebratory 'SPAGAAAAT' moment on day 30. The concept is fun, motivating, and gamified — combining fitness education with daily accountability and a rewarding finish line.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,18 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About גמישות
-A 30-day splits challenge website that counts down each day and sends daily reminders to practice the splits. The site features a warm-up and flexibility guide to help users progress safely, and culminates in a celebratory 'SPAGAAAAT' moment on day 30. The concept is fun, motivating, and gamified — combining fitness education with daily accountability and a rewarding finish line.
-
-## Target Audience
-- אנשים שרוצים ללמוד שפגאט תוך 30 יום
-- מחפשי גמישות
-- מתרגלי יוגה
-- רקדנים
-
-## Industry
-כושר וגמישות
-
+## About Business
 ---
 
 # Additional Resources
